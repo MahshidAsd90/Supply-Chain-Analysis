@@ -9,35 +9,35 @@ This project analyzes the "Make vs Buy" decision in supply chain management usin
 
 1. Understanding the Buy Option
 
-Collected and processed supplier quotes.
+- Collected and processed supplier quotes.
 
-Analyzed key factors such as unit cost, volume, and non-recurring expenses.
+- Analyzed key factors such as unit cost, volume, and non-recurring expenses.
 
-Calculated the full cost of buying based on extended cost formulas.
+- Calculated the full cost of buying based on extended cost formulas.
 
 2. Scenario Analysis with Volume Changes
 
-Identified uncertainties in supply chain decisions.
+- Identified uncertainties in supply chain decisions.
 
-Built dynamic scenario analysis models using Power BI.
+- Built dynamic scenario analysis models using Power BI.
 
-Implemented volume parameters and iterative functions to evaluate different cost scenarios.
+- Implemented volume parameters and iterative functions to evaluate different cost scenarios.
 
 3. Assessing the Make Option
 
-Developed internal cost estimates including raw materials, labor, and energy costs.
+- Developed internal cost estimates including raw materials, labor, and energy costs.
 
-Evaluated production capacity and the need for additional investment in equipment.
+- Evaluated production capacity and the need for additional investment in equipment.
 
-Differentiated between incremental and sunk costs in decision-making.
+- Differentiated between incremental and sunk costs in decision-making.
 
 4. Final Analysis & Comparison
 
-Compared full costs of "Make" vs "Buy" decisions.
+- Compared full costs of "Make" vs "Buy" decisions.
 
-Assessed key factors such as quality, cost efficiency, and scalability.
+- Assessed key factors such as quality, cost efficiency, and scalability.
 
-Visualized results in Power BI for better decision-making.
+- Visualized results in Power BI for better decision-making.
 
 ## Technologies Used
 
